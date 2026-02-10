@@ -5,6 +5,8 @@
 # 📊 GitHub Stats:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akashyadav-codes&theme=github-compact)
 ![](https://github-readme-stats.vercel.app/api?username=Akashyadav-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Akashyadav-codes&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashyadav-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
